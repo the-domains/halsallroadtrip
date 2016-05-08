@@ -1,0 +1,28 @@
+name: Halsallroadtrip
+favicon: null
+layout_spectrum: 0.8524530290160328
+typography_spectrum: 0.8806076180189848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4520766260102391
+  lightness: 0.10301784612238407
+  saturation: 0.4322709636762738
+  rhythmicContrast: 0.7885742173530161
+purpose: []
