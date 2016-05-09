@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Ronnie Scott's"
-datePublished: '2016-05-09T10:44:04.038Z'
-dateModified: '2016-05-09T10:19:51.163Z'
+datePublished: '2016-05-09T11:05:59.062Z'
+dateModified: '2016-05-09T11:05:53.017Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-area-info-ronnie-scotts.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-area-info-ronnie-scotts.md
 url: area-info-ronnie-scotts/index.html
 _type: Article
 
@@ -27,15 +27,16 @@ Ronnie Scott's
 **Friday May 27th  
 Late Late show: Fletch's Brew**  
 First-call drummer Fletcher leads this powerhouse jazz fusion outfit featuring varied lineups
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe3e2e8d-d594-4bfa-b047-dbafe3ccae6f.jpg)
 
 In 1959, saxophonist Ronnie Scott opened the door to a small basement club in London's west end where local musicians could jam. Today, it is one of the world's most famous jazz clubs attracting packed houses and the biggest names in jazz and popular music and Ronnie Scott's welcoming, stylish setting is also home to London's coolest late night hang.
 
 Each night Monday to Saturday, after the main act, Ronnie Scott's presents the Late Late Show, where some of the UK's finest jazz talents take to the stage for a late night blowing session.
 
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f40e9285aa7e175ca479bdfa2b05716/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fabb9f8fe-8788-4648-96a7-e6ea1558772c.jpg)
+Marcus Miller after jam:  
+https://youtu.be/lN6bxhMReEo
 
-  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/097e90ca-3446-43b5-8dd3-506251214af1.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f40e9285aa7e175ca479bdfa2b05716/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fabb9f8fe-8788-4648-96a7-e6ea1558772c.jpg)
 
 Friday - Saturday: 1am - 3am  
 £12 at the door
