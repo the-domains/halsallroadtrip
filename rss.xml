@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Halsallroadtrip]]></title>
+        <description><![CDATA[Halsallroadtrip]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 10:44:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Area info - Ronnie Scott's]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d98b6a59-4567-42ff-ba54-ca1f432605a2.jpg">]]></description>
+            <link>undefinedarea-info-ronnie-scotts/index.html</link>
+            <guid isPermaLink="false">66fa1e40-a9dc-4709-808d-4c7741ca74ac</guid>
+            <pubDate>Mon, 09 May 2016 10:44:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
