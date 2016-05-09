@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "Matthew Halsall & The Godwana Orchestra @ St. John's at Hackney Church Gigs don't get more perfect than this....  Thursday 26th May Times: 19.00 - 23.00 Support comes from Mammal Hands playing music from their brand new Gondwana Records release Floa (May 2016).  "
-datePublished: '2016-05-09T10:44:04.044Z'
-dateModified: '2016-05-09T10:43:44.979Z'
+description: "Matthew Halsall & The Godwana Orchestra@ St. John's at Hackney ChurchGigs don't get more perfect than this....Thursday 26th MayTimes: 19.00 - 23.00Support comes from Mammal Hands playing music from their brand new Gondwana Records releaseFloa (May 2016). "
+datePublished: '2016-05-09T10:57:38.399Z'
+dateModified: '2016-05-09T10:57:06.398Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-matthew-halsall-concert.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-matthew-halsall-concert.md
 url: matthew-halsall-concert/index.html
 _type: Article
 
@@ -47,7 +47,6 @@ on the 26th May 2016..
 Seeing such an eclectic range of instruments and world renowned musicians give their ode to jazz classics and contemporary works in an outstanding venue promises an unmissable experience.
 
 "What we have here is one of the finest British jazz combos of the modern era, one that manages to combine the serious and spiritual within a warm, melodic and welcoming musical context." --All About Jazz
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a8e348c-0399-4d0d-9f7c-371519b93f0c.jpg)
 
 Manchunian trumpeter, composer and band-leader Matthew Halsall has established himself as one of the most prominent names in the contemporary European Jazz scene. Matthew's ever progressing musical knowledge and diversity takes the listener on a journey that is rarely obtained by artists of any genre.
@@ -61,4 +60,6 @@ Address:
 **St John at Hackney Church**Lower Clapton Road  
 London E5 0PD
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cd84b01-4644-4635-95c7-2a6f5bb92d81.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b300d91-ee61-4528-a353-8a5b6815a9f3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5564b28d-cddd-4421-b80c-dbc2bebde16e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3581ca20-deed-4206-a9d1-01cfa0a8a5c6.jpg)
