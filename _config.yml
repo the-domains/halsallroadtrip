@@ -1,8 +1,4 @@
-cta:
-  version: null
-  bucket: null
-  domain: null
-name: Halsallroadtrip
+favicon: null
 opengraph:
   image: null
   type: null
@@ -32,9 +28,13 @@ color:
     - '#e2cb23'
     - '#9c9e96'
   rhythmicContrast: 1
-layout_spectrum: 0.73669
+cta:
+  version: null
+  bucket: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
+layout_spectrum: 1
+name: Halsallroadtrip
