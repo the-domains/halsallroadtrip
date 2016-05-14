@@ -1,40 +1,40 @@
-layout_spectrum: 0.73669
-favicon: null
+cta:
+  version: null
+  bucket: null
+  domain: null
 name: Halsallroadtrip
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
 collections:
   - index:
-      navigable: true
       path: /
       number: 15
       paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
+      navigable: true
     permalink:
       path: '/:title/'
-cta:
-  version: null
-  bucket: null
-  domain: null
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
+typography_spectrum: 0
 color:
-  brandStrength: 0.4520766260102391
-  lightness: 0.8524452
   saturation: 0.8558179
-  rhythmicContrast: 1
+  brandStrength: 1
+  lightness: 0.8524452
   brandColors:
     - '#f9fbee'
     - '#2c347f'
     - '#a71d37'
     - '#e2cb23'
     - '#9c9e96'
-typography_spectrum: 0
+  rhythmicContrast: 1
+layout_spectrum: 0.73669
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
