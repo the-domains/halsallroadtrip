@@ -4,7 +4,7 @@
         <description><![CDATA[Halsall Roadtrip]]></description>
         <link>http://frankvaneck.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 14:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 14:44:27 GMT</lastBuildDate>
         <atom:link href="http://frankvaneck.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Jazz]]></title>
@@ -26,13 +26,6 @@
             <link>http://frankvaneck.com/matthew-halsall-concert/index.html</link>
             <guid isPermaLink="false">1a082fd3-e404-4264-a63b-939f15b81e50</guid>
             <pubDate>Sun, 15 May 2016 14:34:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hotel Info]]></title>
-            <description><![CDATA[<p>Holiday Inn London Bloomsbury</p>]]></description>
-            <link>http://frankvaneck.com/hotel-info/index.html</link>
-            <guid isPermaLink="false">0e624c5a-9c71-420f-9c92-794496db1d5b</guid>
-            <pubDate>Mon, 09 May 2016 11:01:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
