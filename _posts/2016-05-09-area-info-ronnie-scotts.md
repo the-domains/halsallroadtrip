@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: "Ronnie Scott's"
-datePublished: '2016-05-09T11:05:59.062Z'
-dateModified: '2016-05-09T11:05:53.017Z'
+description: Jazz
+datePublished: '2016-05-15T11:14:38.951Z'
+dateModified: '2016-05-15T10:43:40.888Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-ronnie-scotts.md
@@ -18,10 +18,12 @@ publisher:
   favicon: null
 starred: false
 url: area-info-ronnie-scotts/index.html
-_type: Article
+_type: WebPage
 
 ---
-Ronnie Scott's
+**Jazz**
+
+**Ronnie Scott's jazz joint**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d98b6a59-4567-42ff-ba54-ca1f432605a2.jpg)
 
 **Friday May 27th  
@@ -35,7 +37,6 @@ Each night Monday to Saturday, after the main act, Ronnie Scott's presents the L
 
 Marcus Miller after jam:  
 https://youtu.be/lN6bxhMReEo
-
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f40e9285aa7e175ca479bdfa2b05716/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fabb9f8fe-8788-4648-96a7-e6ea1558772c.jpg)
 
 Friday - Saturday: 1am - 3am  
