@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: Jazz
-datePublished: '2016-05-15T11:23:55.236Z'
-dateModified: '2016-05-15T11:17:01.305Z'
+datePublished: '2016-05-15T14:44:07.772Z'
+dateModified: '2016-05-15T14:33:03.152Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-ronnie-scotts.md
@@ -16,9 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: area-info-ronnie-scotts/index.html
-_type: WebPage
+_type: Article
 
 ---
 **Jazz**
