@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Restaurants and other food spots in Central London
-datePublished: '2016-05-15T15:01:58.065Z'
-dateModified: '2016-05-15T15:01:54.093Z'
+datePublished: '2016-05-15T15:02:24.736Z'
+dateModified: '2016-05-15T15:02:18.417Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -104,7 +104,9 @@ Description: [http://www.timeout.com/london/restaurants/balls-company][3]
 
 ****
 
-**Q-Grill Camden**American style bbq restaurant, mid priced
+**Q-Grill Camden**
+
+American style bbq restaurant, mid priced****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34fe537-0151-4716-9abb-b3f23fb08496.jpg)
 
 Adress:  
