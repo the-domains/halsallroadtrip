@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: Holiday Inn London Bloomsbury
-datePublished: '2016-05-09T11:01:21.108Z'
-dateModified: '2016-05-09T11:01:18.047Z'
+description: Hotel Info
+datePublished: '2016-05-15T14:44:17.764Z'
+dateModified: '2016-05-15T14:33:41.003Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-hotel-info.md
@@ -18,9 +18,11 @@ publisher:
   favicon: null
 starred: false
 url: hotel-info/index.html
-_type: Article
+_type: WebPage
 
 ---
+**Hotel Info**
+
 **Holiday Inn London Bloomsbury**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f71bb340-2804-4c23-b3ff-316e250037df.jpg)
 
