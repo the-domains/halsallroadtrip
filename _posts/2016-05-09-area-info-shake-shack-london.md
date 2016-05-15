@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Restaurants and other food spots in Central London
-datePublished: '2016-05-15T11:09:40.829Z'
-dateModified: '2016-05-15T11:09:23.137Z'
+datePublished: '2016-05-15T14:52:04.073Z'
+dateModified: '2016-05-15T14:51:30.177Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -23,7 +23,9 @@ _type: WebPage
 ---
 **Restaurants and other food spots in Central London**
 
-**Shake Shack London **Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes.  
+**Shake Shack London **
+
+Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes.  
 Aanbevolen door Orakel.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7419b79b-4dea-4237-a778-656b3d761055.jpg)
 
@@ -38,6 +40,8 @@ Opening hours:
 Monday - Saturday, 11.00 - 23.00  
 Sunday, 11.00 - 22.30
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7a8b20-6bf7-469a-90f1-e909ecac3aac.png)
+
+****
 
 **Siam Eatery**  
 Independent Thai food. Don't let the corporate imagery fool you.  
@@ -55,6 +59,8 @@ Mon - Fri: 11.30 am - 8 pm
 Sat: 5 pm - 8 pm
 
 Further description: [http://www.timeout.com/london/restaurants/siam-eatery][0]
+
+****
 
 **Herman Ze German**  
 Hipster German food
@@ -79,6 +85,8 @@ Mon - Thu: 8.00 am - 11.30 pm
 Fri: 8.00 am - 12.00 pm  
 Sat: 11.00 am - 12.00 pm
 
+****
+
 **Balls and Company**
 
 Balls, balls and balls...  
@@ -94,8 +102,9 @@ Soho
 Description: [http://www.timeout.com/london/restaurants/balls-company][3]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/408bdf15-e2da-4c4a-bf89-23db59656cd0.jpg)
 
-**Q-Grill Camden  
-**American style bbq restaurant, mid priced
+****
+
+**Q-Grill Camden**American style bbq restaurant, mid priced
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34fe537-0151-4716-9abb-b3f23fb08496.jpg)
 
 Adress:  
