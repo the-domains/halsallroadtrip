@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Restaurants and other food spots in Central London
-datePublished: '2016-05-15T20:00:13.770Z'
-dateModified: '2016-05-15T19:59:48.884Z'
+datePublished: '2016-05-15T20:01:33.167Z'
+dateModified: '2016-05-15T20:01:10.571Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -23,11 +23,9 @@ _type: WebPage
 ---
 **Restaurants and other food spots in Central London**
 
-**Breakfast: Balthazar  
-**
+**Breakfast: Balthazar**
 
 ****
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/801406d5-0158-4d23-89ec-52db10db0320.jpg)
 
 Weekdays 7:30 am- 11:00 am  
@@ -56,13 +54,11 @@ Aanbevolen door Orakel.
 Opening hours:  
 Monday - Saturday, 11.00 - 23.00  
 Sunday, 11.00 - 22.30
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/707dd8e67ad26b8f4398a0ec947bba70/passthrough.png?height=439&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8f7a8b20-6bf7-469a-90f1-e909ecac3aac.png&width=750)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a42756-91fb-444c-9314-ea403f401907.jpg)
 
 **Siam Eatery**  
 Independent Thai food. Don't let the corporate imagery fool you.  
 Restaurant and take away.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a29b9d8-8a48-4c88-916a-7fb2c2270890.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a42756-91fb-444c-9314-ea403f401907.jpg)
 
 Adress:  
 24 Wellington Street  
