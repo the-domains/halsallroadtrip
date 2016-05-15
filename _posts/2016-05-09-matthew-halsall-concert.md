@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Matthew Halsall & The Godwana Orchestra@ St. John's at Hackney ChurchGigs don't get more perfect than this....Thursday 26th MayTimes: 19.00 - 23.00Support comes from Mammal Hands playing music from their brand new Gondwana Records releaseFloa (May 2016). "
-datePublished: '2016-05-15T11:16:45.444Z'
-dateModified: '2016-05-15T11:16:22.169Z'
+description: "Matthew Halsall & The Godwana Orchestra @ St. John's at Hackney Church Gigs don't get more perfect than this.... Thursday 26th May Times: 19.00 - 23.00 Support comes from Mammal Hands playing music from their brand new Gondwana Records releaseFloa (May 2016). "
+datePublished: '2016-05-15T14:34:28.382Z'
+dateModified: '2016-05-15T14:30:33.573Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-matthew-halsall-concert.md
@@ -16,9 +16,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: matthew-halsall-concert/index.html
-_type: WebPage
+_type: Article
 
 ---
 **Concert Info******
