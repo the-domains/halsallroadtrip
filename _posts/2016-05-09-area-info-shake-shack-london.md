@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Shake Shack London  Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes. Aanbevolen door Orakel.'
-datePublished: '2016-05-15T10:31:43.270Z'
-dateModified: '2016-05-15T10:31:17.976Z'
+description: 'Shake Shack London Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes. Aanbevolen door Orakel.'
+datePublished: '2016-05-15T10:36:57.937Z'
+dateModified: '2016-05-15T10:31:52.703Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -61,7 +61,6 @@ Hipster German food
 Desciption:  
 Born out of a love of our traditional German dish, Herman ze German first came to life upon realising there was a distinct lack of our beloved sausage here in the UK. Having grown up in the Black Forest with an abundance of great wurst, we began importing homemade sausages from our trusted family butcher to sell in our local pub in Brighton. Fast-forward six years and after countless festivals, events, a comedy takeover staring funny-man Alan Carr and ze World Cup victory, we now share our passions with three permanent homes in London.  
 Link naar Time Out artikel: [http://www.timeout.com/london/restaurants/herman-ze-german-1][1]
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afcfd6c6-1a09-4ccd-94ea-351adcf349b8.jpg)
 
 Opening times:  
