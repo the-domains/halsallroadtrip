@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Restaurants and other food spots in Central London
-datePublished: '2016-05-15T20:01:33.167Z'
-dateModified: '2016-05-15T20:01:10.571Z'
+datePublished: '2016-05-15T20:12:13.615Z'
+dateModified: '2016-05-15T20:11:38.037Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -44,11 +44,17 @@ WC2B 5HZ
 Covent Garden  
 London
 
-Saturday: ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7419b79b-4dea-4237-a778-656b3d761055.jpg)
+**Shake Shack London**
 
 Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes.  
 Aanbevolen door Orakel.
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8ea1cda662f57f1e1b59ea99ceb10cce/passthrough.jpg?height=226&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7419b79b-4dea-4237-a778-656b3d761055.jpg&width=750)
+
+Adress:  
+Covent Garden  
+24 Piazza  
+WC2E 8RD   
+London
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7a8b20-6bf7-469a-90f1-e909ecac3aac.png)
 
 Opening hours:  
@@ -102,8 +108,10 @@ Sat: 11.00 am - 12.00 pm
 **Balls and Company**
 
 Balls, balls and balls...  
-Voor 14 pond voor 4 ballen en een side dish :)  
-(+12,5% fooi)  
+14 Pond voor 4 ballen en een side dish :)
+
+(+12,5% fooi)
+
 En beneden een bar: Company Below
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9a1006504e581337c96a92cae8d377bb/passthrough.jpg?height=500&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd755b610-9ad8-49f6-ac52-238ab64867bf.jpg&width=750)
 
