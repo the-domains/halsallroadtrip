@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Shake Shack London Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes. Aanbevolen door Orakel.'
-datePublished: '2016-05-15T10:36:57.937Z'
-dateModified: '2016-05-15T10:31:52.703Z'
+description: Restaurants and other food spots in Central London
+datePublished: '2016-05-15T11:09:40.829Z'
+dateModified: '2016-05-15T11:09:23.137Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -21,6 +21,8 @@ url: restaurants/index.html
 _type: WebPage
 
 ---
+**Restaurants and other food spots in Central London**
+
 **Shake Shack London **Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes.  
 Aanbevolen door Orakel.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7419b79b-4dea-4237-a778-656b3d761055.jpg)
@@ -36,11 +38,11 @@ Opening hours:
 Monday - Saturday, 11.00 - 23.00  
 Sunday, 11.00 - 22.30
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7a8b20-6bf7-469a-90f1-e909ecac3aac.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a42756-91fb-444c-9314-ea403f401907.jpg)
 
 **Siam Eatery**  
 Independent Thai food. Don't let the corporate imagery fool you.  
 Restaurant and take away.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a42756-91fb-444c-9314-ea403f401907.jpg)
 
 Adress:  
 24 Wellington Street  
@@ -53,10 +55,10 @@ Mon - Fri: 11.30 am - 8 pm
 Sat: 5 pm - 8 pm
 
 Further description: [http://www.timeout.com/london/restaurants/siam-eatery][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3441e053-a6ed-49b3-a5f1-f6f3fd0804d1.jpg)
 
 **Herman Ze German**  
 Hipster German food
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3441e053-a6ed-49b3-a5f1-f6f3fd0804d1.jpg)
 
 Desciption:  
 Born out of a love of our traditional German dish, Herman ze German first came to life upon realising there was a distinct lack of our beloved sausage here in the UK. Having grown up in the Black Forest with an abundance of great wurst, we began importing homemade sausages from our trusted family butcher to sell in our local pub in Brighton. Fast-forward six years and after countless festivals, events, a comedy takeover staring funny-man Alan Carr and ze World Cup victory, we now share our passions with three permanent homes in London.  
@@ -76,24 +78,43 @@ Shop 3:
 Mon - Thu: 8.00 am - 11.30 pm  
 Fri: 8.00 am - 12.00 pm  
 Sat: 11.00 am - 12.00 pm
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d755b610-9ad8-49f6-ac52-238ab64867bf.jpg)
 
 **Balls and Company**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/408bdf15-e2da-4c4a-bf89-23db59656cd0.jpg)
 
 Balls, balls and balls...  
-Voor 14 pond 4 ballen en een side dish :)  
+Voor 14 pond voor 4 ballen en een side dish :)  
 (+12,5% fooi)  
 En beneden een bar: Company Below
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c1cc5b8bcabb065c6d97fc129f8f66c/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F408bdf15-e2da-4c4a-bf89-23db59656cd0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d755b610-9ad8-49f6-ac52-238ab64867bf.jpg)
 
 58 Greek Street,   
 Soho  
 [http://ballsandcompany.london][2]
 
 Description: [http://www.timeout.com/london/restaurants/balls-company][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/408bdf15-e2da-4c4a-bf89-23db59656cd0.jpg)
+
+**Q-Grill Camden  
+**American style bbq restaurant, mid priced
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a34fe537-0151-4716-9abb-b3f23fb08496.jpg)
+
+Adress:  
+Camden Town  
+29-33 Chalk Farm Road  
+NW1 8AJ  
+[http://q-grill.co.uk/camden/][4]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76da100c-4d57-48c4-8c38-cf4cd0dac2c7.jpg)
+
+Opening times:  
+Mon - Thu: 12.00 - 23.30   
+Fri: 12.00 - midnight  
+Sat: 10.00 - midnight
+
+Time-out review: [http://www.timeout.com/london/restaurants/q-grill\#booking][5]
 
 [0]: http://www.timeout.com/london/restaurants/siam-eatery
 [1]: http://www.timeout.com/london/restaurants/herman-ze-german-1
 [2]: http://ballsandcompany.london/
 [3]: http://www.timeout.com/london/restaurants/balls-company
+[4]: http://q-grill.co.uk/camden/
+[5]: http://www.timeout.com/london/restaurants/q-grill#booking
