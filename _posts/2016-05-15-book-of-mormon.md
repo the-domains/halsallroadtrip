@@ -1,24 +1,24 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Book of Mormon '
-datePublished: '2016-05-15T14:27:32.195Z'
-dateModified: '2016-05-15T14:26:57.146Z'
+description: Book of Mormon
+datePublished: '2016-05-15T14:43:54.501Z'
+dateModified: '2016-05-15T14:30:07.920Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-book-of-mormon.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-05-15-book-of-mormon.md
+starred: true
 url: book-of-mormon/index.html
-_type: WebPage
+_type: Article
 
 ---
 **Book of Mormon**
