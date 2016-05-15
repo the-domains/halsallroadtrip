@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Shake Shack London Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakesAanbevolen door Orakel.'
-datePublished: '2016-05-15T10:28:07.662Z'
-dateModified: '2016-05-15T10:27:43.901Z'
+description: 'Shake Shack London  Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes. Aanbevolen door Orakel.'
+datePublished: '2016-05-15T10:31:43.270Z'
+dateModified: '2016-05-15T10:31:17.976Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
@@ -21,7 +21,7 @@ url: restaurants/index.html
 _type: WebPage
 
 ---
-**Shake Shack London **Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes  
+**Shake Shack London **Eerste Londense versie van New Yorkse fast food franchise, met super dikke shakes.  
 Aanbevolen door Orakel.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7419b79b-4dea-4237-a778-656b3d761055.jpg)
 
@@ -60,7 +60,7 @@ Hipster German food
 
 Desciption:  
 Born out of a love of our traditional German dish, Herman ze German first came to life upon realising there was a distinct lack of our beloved sausage here in the UK. Having grown up in the Black Forest with an abundance of great wurst, we began importing homemade sausages from our trusted family butcher to sell in our local pub in Brighton. Fast-forward six years and after countless festivals, events, a comedy takeover staring funny-man Alan Carr and ze World Cup victory, we now share our passions with three permanent homes in London.  
-Link naar Time Out artikel:  [http://www.timeout.com/london/restaurants/herman-ze-german-1][1]
+Link naar Time Out artikel: [http://www.timeout.com/london/restaurants/herman-ze-german-1][1]
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afcfd6c6-1a09-4ccd-94ea-351adcf349b8.jpg)
 
@@ -93,9 +93,6 @@ Soho
 [http://ballsandcompany.london][2]
 
 Description: [http://www.timeout.com/london/restaurants/balls-company][3]
-
-  
-
 
 [0]: http://www.timeout.com/london/restaurants/siam-eatery
 [1]: http://www.timeout.com/london/restaurants/herman-ze-german-1
