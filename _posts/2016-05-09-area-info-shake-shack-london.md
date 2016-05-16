@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Restaurants and other food spots in Central London
-datePublished: '2016-05-16T09:58:28.796Z'
-dateModified: '2016-05-15T20:12:20.250Z'
+datePublished: '2016-05-16T10:02:30.052Z'
+dateModified: '2016-05-16T09:58:37.898Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-area-info-shake-shack-london.md
