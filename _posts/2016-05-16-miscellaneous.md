@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Miscellaneous '
-datePublished: '2016-05-16T09:52:50.428Z'
-dateModified: '2016-05-16T09:50:16.381Z'
+datePublished: '2016-05-16T09:58:39.248Z'
+dateModified: '2016-05-16T09:55:03.109Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-miscellaneous.md
