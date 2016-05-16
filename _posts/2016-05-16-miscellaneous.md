@@ -1,14 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
 description: 'Miscellaneous '
-datePublished: '2016-05-16T09:47:41.879Z'
-dateModified: '2016-05-16T09:47:25.073Z'
+datePublished: '2016-05-16T09:49:56.372Z'
+dateModified: '2016-05-16T09:49:52.844Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-16-miscellaneous.md
 authors: []
 publisher:
   name: null
@@ -16,9 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-16-miscellaneous.md
 url: miscellaneous/index.html
-_type: Article
+_type: WebPage
 
 ---
 **Miscellaneous **
@@ -50,8 +50,5 @@ Hotel: 1 of 2 pond per dag voor cleaning lady.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c207ce3-b7dc-4113-b684-056c0101802b.jpg)
 
 Non-conformistische klootzakken :)
-
-  
-
 
 [0]: https://tfl.gov.uk/modes/driving/congestion-charge
