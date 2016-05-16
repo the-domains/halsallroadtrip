@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Miscellaneous '
-datePublished: '2016-05-16T09:49:56.372Z'
-dateModified: '2016-05-16T09:49:52.844Z'
+datePublished: '2016-05-16T09:52:50.428Z'
+dateModified: '2016-05-16T09:50:16.381Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-miscellaneous.md
@@ -32,11 +32,11 @@ Want 't blijft een jazz trip
 Website: [https://tfl.gov.uk/modes/driving/congestion-charge][0] en niet andere oplichters.  
 Via deze website kan je ook vooraf alvast voor de donderdag betalen (koppelt je kenteken).  
 Als je een boete aan je reet krijgt, dan is dat de eerste 14 dagen 65 pond en later 130, later 195\.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf4abc0-2b09-48e0-8e96-a2efbd5fcf15.jpg)
 
 **Pond - Euro**
 
 Euro \* 1,3 = Pond ongeveer
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf4abc0-2b09-48e0-8e96-a2efbd5fcf15.jpg)
 
 ****
 
