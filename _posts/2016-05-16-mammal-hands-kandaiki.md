@@ -1,18 +1,26 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=philyDq8aaw&feature=share'
+inLanguage: null
+keywords: []
+description: 'From the Mammal Hands Live Session at The Wharf, Norwich.'
+datePublished: '2016-05-16T17:11:07.159Z'
+dateModified: '2016-05-16T17:11:06.781Z'
 title: Mammal Hands - Kandaiki
-datePublished: '2016-05-16T17:04:35.904Z'
-dateModified: '2016-05-16T17:02:32.038Z'
 author:
   - name: Mammal Hands
     url: 'https://www.youtube.com/channel/UCtj4-NXTzI_jf7mCWtLrvNA'
     avatar: {}
-isBasedOnUrl: 'https://www.youtube.com/watch?v=philyDq8aaw&feature=share'
-description: 'From the Mammal Hands Live Session at The Wharf, Norwich.'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 sourcePath: _posts/2016-05-16-mammal-hands-kandaiki.md
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
