@@ -5,17 +5,13 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Miscellaneous '
-datePublished: '2016-05-16T10:01:56.762Z'
-dateModified: '2016-05-16T10:00:55.521Z'
+datePublished: '2016-05-22T17:42:20.102Z'
+dateModified: '2016-05-22T17:41:56.427Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-16-miscellaneous.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: miscellaneous/index.html
 _type: WebPage
@@ -38,6 +34,15 @@ Als je een boete aan je reet krijgt, dan is dat de eerste 14 dagen 65 pond en la
 **Pond - Euro**
 
 Euro \* 1,3 = Pond ongeveer
+
+**Hotel naar St.Johns church**
+
+Neem vanaf Russel Square Station de Piccadilly line naar King's Cross Station.  
+Neem vanaf King's Cross the Victoria line naar Highbury & Islington.  
+Neem vanaf Highbury & Islington de overground train (Stratford) naar Hackney Central.  
+Vanaf Hackney Central is het ongeveer 5 minuten lopen.
+
+Totale reistijd is ongeveer een half uur.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf4abc0-2b09-48e0-8e96-a2efbd5fcf15.jpg)
 
 ****
