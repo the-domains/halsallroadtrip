@@ -1,7 +1,7 @@
 name: Halsallroadtrip
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.08333
+typography_spectrum: 0.0473
 collections:
   - index:
       path: /
@@ -34,8 +34,8 @@ color:
     - '#a71d37'
     - '#e2cb23'
     - '#9c9e96'
-  brandStrength: 1
-  lightness: 0.625
+  brandStrength: 0.875
+  lightness: 0.75
   saturation: 0
   rhythmicContrast: 0.5
 purpose: []
