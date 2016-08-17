@@ -1,16 +1,16 @@
 title: Halsall Roadtrip
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
-layout_spectrum: 0.4763912
+layout_spectrum: 0.1121417
 favicon: null
 name: Halsallroadtrip
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -30,12 +30,12 @@ collections:
 color:
   brandStrength: 0.875
   lightness: 0.75
-  saturation: 0
-  rhythmicContrast: 0.7849916
+  saturation: 0.9418213
+  rhythmicContrast: 0.2807757
   brandColors:
     - '#f9fbee'
     - '#2c347f'
     - '#a71d37'
     - '#e2cb23'
     - '#9c9e96'
-typography_spectrum: 0.3491
+typography_spectrum: 0.09359191
